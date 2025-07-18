@@ -28,7 +28,7 @@ So he can report that user
 - **Facebook Graph API**
 - **Machine Learning** (scikit-learn, pandas, numpy, etc.)
 - **Jupyter Notebook** (for model training & analysis)
-- **Flask** or Django (for web interface, if applicable)
+- **StreamLit** (for web interface)
 
 ---
 
